@@ -6,3 +6,5 @@
  - 포트폴리오 완성 11월 초
  - 포트폴리오 업로드 11월 초
  - 포트폴리오 의견 달기 11월 중
+
+ - 포트폴리오 구성 about, career, education, portfolio
