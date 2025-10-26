@@ -1,1 +1,6 @@
 전송 필요
+
+# github 업로드
+## git add .
+## git commit "제목"
+## git push origin main
